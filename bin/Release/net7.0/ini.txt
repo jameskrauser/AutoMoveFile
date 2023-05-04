@@ -1,0 +1,3 @@
+source:/Users/james/Desktop/Youtube/
+destination:/Volumes/SSD1T/Youtube/
+interval:1

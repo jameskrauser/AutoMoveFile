@@ -1,0 +1,5 @@
+/Users/james/Desktop/MovieMp4/Move2
+/Users/james/Desktop/MovieMp4/Move2.dll
+/Users/james/Desktop/MovieMp4/Move2.deps.json
+/Users/james/Desktop/MovieMp4/Move2.runtimeconfig.json
+/Users/james/Desktop/MovieMp4/Move2.pdb
